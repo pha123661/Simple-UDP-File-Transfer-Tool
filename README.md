@@ -1,5 +1,9 @@
 # Simple UDP File Transfer Tool
 
+Transfer files from server to client using the UDP protocal.
+
+A very very simple tool for demonstration purposes, written in less than 30 minutes.
+
 ## Commands
 
 * "get-file-list":\
